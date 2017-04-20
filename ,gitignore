@@ -1,0 +1,12 @@
+# generic files to ignore
+*~
+*.tmp
+*.temp
+*.bak
+*.back
+*.old
+*.DS_Store
+.*.swp
+
+# PHPStorm project settings
+/.idea/
